@@ -1,0 +1,5 @@
+to build the database (totally unnecessary and only there as an excuse
+to mess with MongoDB), need to have mongo set up and running with a db
+called test and a collection called foo
+
+this sends emails with sendmail, this is necessary
