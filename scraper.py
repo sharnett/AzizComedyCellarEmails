@@ -42,3 +42,4 @@ for show in show_list:
 #for doc in collection.find():
 #    print doc['date'].strftime("%a %b %d %Y %I:%M%p")
 # added this line to test rebase
+# success. verify that old way sucked
