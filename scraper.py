@@ -41,3 +41,4 @@ for show in show_list:
 # if you want to print the database dates in a pretty format
 #for doc in collection.find():
 #    print doc['date'].strftime("%a %b %d %Y %I:%M%p")
+# added this line to test rebase
